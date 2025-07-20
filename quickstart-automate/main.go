@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-	fmt.Println("Hello, Universe!-v2-updated cloudbuild path")
+	fmt.Println("Hello, Universe!-v2-updated cloudbuild path latest v2")
 }
